@@ -1,0 +1,775 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{8864531}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=6d96d6fbd106e2ffd88ad23ce0119654}{%
+           family={{Zhang}},
+           familyi={Z\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=836ff8ea9c2faa6246ee87dd694a89f3}{%
+           family={{Bowman}},
+           familyi={B\bibinitperiod},
+           given={D.\bibnamedelimi A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=07a6614840b964b0440a2bb2eb762f6f}{%
+           family={{Jones}},
+           familyi={J\bibinitperiod},
+           given={C.\bibnamedelimi N.},
+           giveni={C\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a73b40a9f6f20d3f4741bddad399dcba}
+      \strng{fullhash}{534ae5b282642dfe224ff49e63e02c6c}
+      \strng{bibnamehash}{534ae5b282642dfe224ff49e63e02c6c}
+      \strng{authorbibnamehash}{534ae5b282642dfe224ff49e63e02c6c}
+      \strng{authornamehash}{a73b40a9f6f20d3f4741bddad399dcba}
+      \strng{authorfullhash}{534ae5b282642dfe224ff49e63e02c6c}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2019 11th International Conference on Virtual Worlds and Games for Serious Applications (VS-Games)}
+      \field{title}{Exploring Effects of Interactivity on Learning with Interactive Storytelling in Immersive Virtual Reality}
+      \field{year}{2019}
+      \field{pages}{1\bibrangedash 8}
+      \range{pages}{8}
+    \endentry
+    \entry{8797755}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=6fd8bff313836147812b3a92f1cdb5e4}{%
+           family={{Andreasen}},
+           familyi={A\bibinitperiod},
+           given={N.\bibnamedelimi K.},
+           giveni={N\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aec92985b5d43eb217531e0e93ad73a2}{%
+           family={{Baceviciute}},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=41ae467ba76e6349541c7bd601d36eec}{%
+           family={{Pande}},
+           familyi={P\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=24173bdd1e67083a9d8e232ecd9cad95}{%
+           family={{Makransky}},
+           familyi={M\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a72e489635db7b5c8fa015859df71afd}
+      \strng{fullhash}{abdde2fc69bdc1b51b6e15fd45c3f73a}
+      \strng{bibnamehash}{abdde2fc69bdc1b51b6e15fd45c3f73a}
+      \strng{authorbibnamehash}{abdde2fc69bdc1b51b6e15fd45c3f73a}
+      \strng{authornamehash}{a72e489635db7b5c8fa015859df71afd}
+      \strng{authorfullhash}{abdde2fc69bdc1b51b6e15fd45c3f73a}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR)}
+      \field{title}{Virtual Reality Instruction Followed by Enactment Can Increase Procedural Knowledge in a Science Lesson}
+      \field{year}{2019}
+      \field{pages}{840\bibrangedash 841}
+      \range{pages}{2}
+    \endentry
+    \entry{10.1145/2807442.2807497}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=9bcec3e557fc7df89db4133381818a81}{%
+           family={Oda},
+           familyi={O\bibinitperiod},
+           given={Ohan},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=27c36882f7cef23d9c026d222139678d}{%
+           family={Elvezio},
+           familyi={E\bibinitperiod},
+           given={Carmine},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eeeca659e3735eeecde7eaa3b1e50a19}{%
+           family={Sukan},
+           familyi={S\bibinitperiod},
+           given={Mengu},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b3462cefe1c5b2c7537ae21555c665a}{%
+           family={Feiner},
+           familyi={F\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a8fcdf8b5dceab00a647f65ecebf73a4}{%
+           family={Tversky},
+           familyi={T\bibinitperiod},
+           given={Barbara},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Charlotte, NC, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{67a0f8a343a07926ca12b8d589647e34}
+      \strng{fullhash}{73922c9087b131cc8d98a63867b75d5f}
+      \strng{bibnamehash}{73922c9087b131cc8d98a63867b75d5f}
+      \strng{authorbibnamehash}{73922c9087b131cc8d98a63867b75d5f}
+      \strng{authornamehash}{67a0f8a343a07926ca12b8d589647e34}
+      \strng{authorfullhash}{73922c9087b131cc8d98a63867b75d5f}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 28th Annual ACM Symposium on User Interface Software \& Technology}
+      \field{isbn}{9781450337793}
+      \field{series}{UIST ’15}
+      \field{title}{Virtual Replicas for Remote Assistance in Virtual and Augmented Reality}
+      \field{year}{2015}
+      \field{pages}{405\bibrangedash 415}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1145/2807442.2807497
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/2807442.2807497
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/2807442.2807497
+      \endverb
+      \keyw{3D referencing techniques,maintenance and repair,remote task assistance,collaborative mixed/augmented reality,remote guidance,assembly}
+    \endentry
+    \entry{Buehler2020}{inbook}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0b17f69a091ead57e1f276656ceb5d82}{%
+           family={Buehler},
+           familyi={B\bibinitperiod},
+           given={Kai},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c3a0ccc8d9f60b79069184d2417b907}{%
+           family={Kohne},
+           familyi={K\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=17d6a6cf56f02926b296acf36b8eddef}{%
+           family={Orsolits},
+           familyi={O\bibinitperiod},
+           given={Horst},
+           giveni={H\bibinitperiod}}}%
+        {{hash=d2da70e5f011485659c390e9f9784118}{%
+           family={Lackner},
+           familyi={L\bibinitperiod},
+           given={Maximilian},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien Wiesbaden}%
+      }
+      \strng{namehash}{63dec82b072ac7c9a118846bef17beea}
+      \strng{fullhash}{63dec82b072ac7c9a118846bef17beea}
+      \strng{bibnamehash}{63dec82b072ac7c9a118846bef17beea}
+      \strng{authorbibnamehash}{63dec82b072ac7c9a118846bef17beea}
+      \strng{authornamehash}{63dec82b072ac7c9a118846bef17beea}
+      \strng{authorfullhash}{63dec82b072ac7c9a118846bef17beea}
+      \strng{editorbibnamehash}{32812b23f95f642e6f440bdae999f100}
+      \strng{editornamehash}{32812b23f95f642e6f440bdae999f100}
+      \strng{editorfullhash}{32812b23f95f642e6f440bdae999f100}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Dieser Artikel besch{ä}ftigt sich mit den Eigenschaften, den Voraussetzungen und dem Nutzen von virtuellen Lernwelten im didaktischen Kontext. Zun{ä}chst wird ausgef{ü}hrt, woraus AR/VR Lernwelten bestehen und wie Sie grundlegen funktionieren. Danach folgt eine Markt- und Potentialanalyse, basierend auf einer Studie der Rheinischen Fachhochschule K{ö}ln. Dabei wird der Gesamteinsatz von VR allgemein und der Einsatz von AR/VR in deutschen Unternehmen untersucht. Der Artikel besch{ä}ftigt sich weiters mit einer Ableitung der positiven Effekte des VR gest{ü}tzten Lernens sowie den Chancen, die dadurch entstehen. Es folgt die Ausarbeitung des Nutzens und didaktische Konzepte in denen AR/VR Lernumgebungen erfolgreich eingesetzt werden k{ö}nnen.}
+      \field{booktitle}{Virtual Reality und Augmented Reality in der Digitalen Produktion}
+      \field{isbn}{978-3-658-29009-2}
+      \field{title}{Besser Lernen mit VR/AR Anwendungen}
+      \field{year}{2020}
+      \field{pages}{75\bibrangedash 97}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1007/978-3-658-29009-2_5
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-658-29009-2_5
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-658-29009-2_5
+      \endverb
+    \endentry
+    \entry{8971204}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=44a5d14a8cadf24e078000ec972ceafb}{%
+           family={{Idrizi}},
+           familyi={I\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=19793688859e221ca028f4dcc7f28d11}{%
+           family={{Filiposka}},
+           familyi={F\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=579dc2c11c12319f208656983eabc7f7}{%
+           family={{Trajkovik}},
+           familyi={T\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1cdf81f06b2183279773b9570d8bca90}
+      \strng{fullhash}{c1493a219ae86e19e3f20c468337067f}
+      \strng{bibnamehash}{c1493a219ae86e19e3f20c468337067f}
+      \strng{authorbibnamehash}{c1493a219ae86e19e3f20c468337067f}
+      \strng{authornamehash}{1cdf81f06b2183279773b9570d8bca90}
+      \strng{authorfullhash}{c1493a219ae86e19e3f20c468337067f}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2019 27th Telecommunications Forum (TELFOR)}
+      \field{title}{The Discourse on Learning Styles in Online Education}
+      \field{year}{2019}
+      \field{pages}{1\bibrangedash 4}
+      \range{pages}{4}
+    \endentry
+    \entry{UBHD-67741817}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6123c07a1cca10557a4890f30379c1c2}{%
+           family={Creß},
+           familyi={C\bibinitperiod},
+           given={Ulrike},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=ce368859b4c0d12966ee45452f380492}{%
+           family={Mandl},
+           familyi={M\bibinitperiod},
+           given={Heinz},
+           giveni={H\bibinitperiod}}}%
+        {{hash=4f18ed19bb4a43f63f4dea41aeace1c7}{%
+           family={Friedrich},
+           familyi={F\bibinitperiod},
+           given={Helmut\bibnamedelima F.},
+           giveni={H\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {ger}%
+      }
+      \list{location}{1}{%
+        {G{ö}ttingen ; Bern ; Wien}%
+      }
+      \list{publisher}{1}{%
+        {Hogrefe}%
+      }
+      \strng{namehash}{6123c07a1cca10557a4890f30379c1c2}
+      \strng{fullhash}{6123c07a1cca10557a4890f30379c1c2}
+      \strng{bibnamehash}{6123c07a1cca10557a4890f30379c1c2}
+      \strng{authorbibnamehash}{6123c07a1cca10557a4890f30379c1c2}
+      \strng{authornamehash}{6123c07a1cca10557a4890f30379c1c2}
+      \strng{authorfullhash}{6123c07a1cca10557a4890f30379c1c2}
+      \strng{editorbibnamehash}{4b29a7981e9d10800ed768cc708500f5}
+      \strng{editornamehash}{4b29a7981e9d10800ed768cc708500f5}
+      \strng{editorfullhash}{4b29a7981e9d10800ed768cc708500f5}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Handbuch Lernstrategien}
+      \field{isbn}{3-8017-1813-1 and 978-3-8409-1813-1 and 978-3-8017-1813-8}
+      \field{library}{UB ; UW}
+      \field{note}{Literaturangaben}
+      \field{series}{Hogrefe eLibrary}
+      \field{title}{Lernorientierungen, Lernstile, Lerntypen und kognitive Stile}
+      \field{year}{2006}
+      \field{pages}{365\bibrangedash 377}
+      \range{pages}{13}
+      \verb{urlraw}
+      \verb http://elibrary.hogrefe.de/book/99.110005/9783840918131
+      \endverb
+      \verb{url}
+      \verb http://elibrary.hogrefe.de/book/99.110005/9783840918131
+      \endverb
+      \keyw{Lerntechnik ; Lerntechnik}
+    \endentry
+    \entry{UBHD-65563883}{inbook}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5468b6a1fda11394d23640e9a4451d76}{%
+           family={{Schwan}},
+           familyi={S\bibinitperiod},
+           given={Stephan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9923e176a1f66caa42613178bfb998be}{%
+           family={{Buder}},
+           familyi={B\bibinitperiod},
+           given={J{ü}rgen},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=644418ad0939cc7f31906806c02053a9}{%
+           family={Bente},
+           familyi={B\bibinitperiod},
+           given={Gary},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {ger}%
+      }
+      \list{location}{1}{%
+        {G{ö}ttingen ; Bern [u.a.]}%
+      }
+      \list{publisher}{1}{%
+        {Hogrefe}%
+      }
+      \strng{namehash}{70672eb66a335936cae3066a25b506a8}
+      \strng{fullhash}{70672eb66a335936cae3066a25b506a8}
+      \strng{bibnamehash}{70672eb66a335936cae3066a25b506a8}
+      \strng{authorbibnamehash}{70672eb66a335936cae3066a25b506a8}
+      \strng{authornamehash}{70672eb66a335936cae3066a25b506a8}
+      \strng{authorfullhash}{70672eb66a335936cae3066a25b506a8}
+      \strng{editorbibnamehash}{644418ad0939cc7f31906806c02053a9}
+      \strng{editornamehash}{644418ad0939cc7f31906806c02053a9}
+      \strng{editorfullhash}{644418ad0939cc7f31906806c02053a9}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Virtuelle Realit{ä}ten}
+      \field{isbn}{3-8017-1465-9 and 978-3-8017-1465-9}
+      \field{library}{UB [Signatur: 2003 A 5806] ; PS [Signatur: A IX 29 Ben]}
+      \field{number}{ARRAY(0x55a732b0abb0)}
+      \field{series}{Internet und Psychologie}
+      \field{title}{Lernen und Wissenserwerb in virtuellen Realit{ä}ten}
+      \field{year}{2002}
+      \field{pages}{109\bibrangedash 132}
+      \range{pages}{24}
+      \keyw{Virtuelle Realit{ä}t / Psychologie}
+    \endentry
+    \entry{youngblut1998educational}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aa99d6b8e85869e049091cf8d2eb7b1a}{%
+           family={Youngblut},
+           familyi={Y\bibinitperiod},
+           given={Christine},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {INSTITUTE FOR DEFENSE ANALYSES ALEXANDRIA VA}%
+      }
+      \strng{namehash}{aa99d6b8e85869e049091cf8d2eb7b1a}
+      \strng{fullhash}{aa99d6b8e85869e049091cf8d2eb7b1a}
+      \strng{bibnamehash}{aa99d6b8e85869e049091cf8d2eb7b1a}
+      \strng{authorbibnamehash}{aa99d6b8e85869e049091cf8d2eb7b1a}
+      \strng{authornamehash}{aa99d6b8e85869e049091cf8d2eb7b1a}
+      \strng{authorfullhash}{aa99d6b8e85869e049091cf8d2eb7b1a}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Educational uses of virtual reality technology.}
+      \field{type}{techreport}
+      \field{year}{1998}
+    \endentry
+    \entry{8798289}{inproceedings}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=3688b7450e1b7015d06169cba05825c2}{%
+           family={{Matthes}},
+           familyi={M\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=228d37cc5f31c2e7890c6d187d262273}{%
+           family={{Weissker}},
+           familyi={W\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eaac8f46a4bc225452eacd50ce218ae7}{%
+           family={{Angelidis}},
+           familyi={A\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=df5fb71591dfe7134379592173533326}{%
+           family={{Kulik}},
+           familyi={K\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=046531554c4420b796273fa911a2ccab}{%
+           family={{Beck}},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=13d7c93825108b112ef426f992200674}{%
+           family={{Kunert}},
+           familyi={K\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=80876d4b6fb12183f5f14e87adf260e2}{%
+           family={{Frolov}},
+           familyi={F\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e829dcb605bc164433c5d6c9dfc074b7}{%
+           family={{Weber}},
+           familyi={W\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=364e7629257175b12e5271f3846e578f}{%
+           family={{Kreskowski}},
+           familyi={K\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f0ff54c1330ee51e6acf26985ecd322c}{%
+           family={{Froehlich}},
+           familyi={F\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fa0126d0209b049eba7b1c7ab79d29f7}
+      \strng{fullhash}{70c3b9c732038e8036d7f4276ea780d3}
+      \strng{bibnamehash}{70c3b9c732038e8036d7f4276ea780d3}
+      \strng{authorbibnamehash}{70c3b9c732038e8036d7f4276ea780d3}
+      \strng{authornamehash}{fa0126d0209b049eba7b1c7ab79d29f7}
+      \strng{authorfullhash}{70c3b9c732038e8036d7f4276ea780d3}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR)}
+      \field{title}{The Collaborative Virtual Reality Neurorobotics Lab}
+      \field{year}{2019}
+      \field{pages}{1671\bibrangedash 1674}
+      \range{pages}{4}
+    \endentry
+    \entry{8848001}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=5b0829643841de5b14d5f32136185b3f}{%
+           family={{Born}},
+           familyi={B\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56d1f0186998e2d87087a8924c944b9e}{%
+           family={{Sykownik}},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=83926e6c35aa85eef1ef82459e43d1d6}{%
+           family={{Masuch}},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8da2daafe044048a4e9ab052fe983127}
+      \strng{fullhash}{cef5c3b013e48d44843454fbafc54d96}
+      \strng{bibnamehash}{cef5c3b013e48d44843454fbafc54d96}
+      \strng{authorbibnamehash}{cef5c3b013e48d44843454fbafc54d96}
+      \strng{authornamehash}{8da2daafe044048a4e9ab052fe983127}
+      \strng{authorfullhash}{cef5c3b013e48d44843454fbafc54d96}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2019 IEEE Conference on Games (CoG)}
+      \field{title}{Co-Located vs. Remote Gameplay: The Role of Physical Co-Presence in Multiplayer Room-Scale VR}
+      \field{year}{2019}
+      \field{pages}{1\bibrangedash 8}
+      \range{pages}{8}
+    \endentry
+    \entry{8798080}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=3a8de1a4da4671804bcdce995376a87c}{%
+           family={{Grandi}},
+           familyi={G\bibinitperiod},
+           given={J.\bibnamedelimi G.},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cd6b51a1bb107ea3654a76b3b2f7c6de}{%
+           family={{Debarba}},
+           familyi={D\bibinitperiod},
+           given={H.\bibnamedelimi G.},
+           giveni={H\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a3c6505c038737567b4af15262c6a8d1}{%
+           family={{Maciel}},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{794963c948cf18bb7b5ddd651f95f14c}
+      \strng{fullhash}{157d0a868a0206f4faa927e21028ddcf}
+      \strng{bibnamehash}{157d0a868a0206f4faa927e21028ddcf}
+      \strng{authorbibnamehash}{157d0a868a0206f4faa927e21028ddcf}
+      \strng{authornamehash}{794963c948cf18bb7b5ddd651f95f14c}
+      \strng{authorfullhash}{157d0a868a0206f4faa927e21028ddcf}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2019 IEEE Conference on Virtual Reality and 3D User Interfaces (VR)}
+      \field{title}{Characterizing Asymmetric Collaborative Interactions in Virtual and Augmented Realities}
+      \field{year}{2019}
+      \field{pages}{127\bibrangedash 135}
+      \range{pages}{9}
+    \endentry
+    \entry{7563562}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=300d476da1cc9f38517bd77fbe564c34}{%
+           family={{Chenechal}},
+           familyi={C\bibinitperiod},
+           given={M.\bibnamedelimi L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a1866fd63a796d2a49e36d8c35ff6753}{%
+           family={{Lacoche}},
+           familyi={L\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=54f1adf07d339d52939f2c4746cef570}{%
+           family={{Royan}},
+           familyi={R\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9a466e8023805ec12d60d25792690262}{%
+           family={{Duval}},
+           familyi={D\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=466666ee74c4bc6524f0c43ad258c3c8}{%
+           family={{Gouranton}},
+           familyi={G\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c163f5bcc708c0c882ae4e6f6e7312ff}{%
+           family={{Arnaldi}},
+           familyi={A\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e557ba6c7057764ff255b553dbe6c530}
+      \strng{fullhash}{782d68f7b76a2cffe7e4b4c37da85d43}
+      \strng{bibnamehash}{782d68f7b76a2cffe7e4b4c37da85d43}
+      \strng{authorbibnamehash}{782d68f7b76a2cffe7e4b4c37da85d43}
+      \strng{authornamehash}{e557ba6c7057764ff255b553dbe6c530}
+      \strng{authorfullhash}{782d68f7b76a2cffe7e4b4c37da85d43}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2016 IEEE Third VR International Workshop on Collaborative Virtual Environments (3DCVE)}
+      \field{title}{When the giant meets the ant an asymmetric approach for collaborative and concurrent object manipulation in a multi-scale environment}
+      \field{year}{2016}
+      \field{pages}{18\bibrangedash 22}
+      \range{pages}{5}
+    \endentry
+    \entry{8943686}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ddcceda2c2c92c81fddcea7b7fdf5592}{%
+           family={{Thanyadit}},
+           familyi={T\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e5793acb3c913113b86a895df3b23508}{%
+           family={{Punpongsanon}},
+           familyi={P\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0ef48ca6501e510eccec98bb830e6bec}{%
+           family={{Pong}},
+           familyi={P\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5c050c935057b74354883f3b957d1147}
+      \strng{fullhash}{28f48d515ebb2b1274bde7866e03f5d2}
+      \strng{bibnamehash}{28f48d515ebb2b1274bde7866e03f5d2}
+      \strng{authorbibnamehash}{28f48d515ebb2b1274bde7866e03f5d2}
+      \strng{authornamehash}{5c050c935057b74354883f3b957d1147}
+      \strng{authorfullhash}{28f48d515ebb2b1274bde7866e03f5d2}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2019 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)}
+      \field{title}{ObserVAR: Visualization System for Observing Virtual Reality Users using Augmented Reality}
+      \field{year}{2019}
+      \field{pages}{258\bibrangedash 268}
+      \range{pages}{11}
+    \endentry
+    \entry{7223433}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=6124187e6329b83305ac2bc1cc5da23a}{%
+           family={{Le Chenechal}},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a1866fd63a796d2a49e36d8c35ff6753}{%
+           family={{Lacoche}},
+           familyi={L\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=02110474c3073a162d4e09bdb9e8566f}{%
+           family={{Martin}},
+           familyi={M\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=54f1adf07d339d52939f2c4746cef570}{%
+           family={{Royan}},
+           familyi={R\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c696207f1472afdeb8f0a0c810f93958}
+      \strng{fullhash}{eba2263c04d2f95d920aba9a5b48c635}
+      \strng{bibnamehash}{eba2263c04d2f95d920aba9a5b48c635}
+      \strng{authorbibnamehash}{eba2263c04d2f95d920aba9a5b48c635}
+      \strng{authornamehash}{c696207f1472afdeb8f0a0c810f93958}
+      \strng{authorfullhash}{eba2263c04d2f95d920aba9a5b48c635}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2015 IEEE Virtual Reality (VR)}
+      \field{title}{Laying out spaces with virtual reality}
+      \field{year}{2015}
+      \field{pages}{337\bibrangedash 338}
+      \range{pages}{2}
+    \endentry
+    \entry{InfoGamer2018}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0772cb3c6aef5c252ed3c48e191fc20e}{%
+           family={Jensen},
+           familyi={J\bibinitperiod},
+           given={Nathan},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0772cb3c6aef5c252ed3c48e191fc20e}
+      \strng{fullhash}{0772cb3c6aef5c252ed3c48e191fc20e}
+      \strng{bibnamehash}{0772cb3c6aef5c252ed3c48e191fc20e}
+      \strng{authorbibnamehash}{0772cb3c6aef5c252ed3c48e191fc20e}
+      \strng{authornamehash}{0772cb3c6aef5c252ed3c48e191fc20e}
+      \strng{authorfullhash}{0772cb3c6aef5c252ed3c48e191fc20e}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{(Zugriff 1.4.2020)}
+      \field{title}{How to Make a Multiplayer Game}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://www.youtube.com/playlist?list=PLWeGoBm1YHVgXmitft-0jkvcTVhAtL9vG
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/playlist?list=PLWeGoBm1YHVgXmitft-0jkvcTVhAtL9vG
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
