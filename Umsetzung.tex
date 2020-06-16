@@ -10,7 +10,7 @@ Zu Beginn der Arbeit wurde ein Prototyp entwickelt um sich mit Unity und dem Pho
 \caption{Ein Avatar des Prototyps}
 \end{figure}
 
-Um mehreren Spielern gleichzeitigen Zugriff auf die Anwendung zu geben, wird das PUN-Plugin von Photon verwendet. Über C\# Skripte werden sowohl die Verbindung zu dem Photon-Server hergestellt, als auch eine Lobby und ein Raum erstellt. ~\parencite{InfoGamer2018}
+Um mehreren Spielern gleichzeitigen Zugriff auf die Anwendung zu geben, wird das PUN-Plugin von Photon verwendet. Über C\# Skripte werden sowohl die Verbindung zu dem Photon-Server hergestellt, als auch eine Lobby und ein Raum erstellt ~\parencite{InfoGamer2018}.
 Hierbei muss nun beachtet werden, dass der Avatar nicht mehr im Voraus in der Szene platziert sein darf. Der erste Spieler kann diesen zwar kontrollieren, aber der zweite Spieler überschreibt die Kontrolle über den Avatar sobald er beitritt. Um dieses Problem zu lösen, werden die Avatare der Spieler über ein Skript dynamisch der Szene hinzugefügt, sobald diese beitreten. Somit muss die Anzahl der Spieler nicht im Voraus festgelegt werden. Um das neue Problem zu lösen, dass sich während des Beitritts keine verfügbare Kamera in der Szene befindet, wird eine zweite Szene in Form eines Menüs verwendet. Jeder Spieler der beitreten möchte befindet sich solange in diesem Menü, bis in der Hauptszene ein Avatar fertig vorbereitet ist, und wird dann in diese weitergeleitet. \newline
 
 Alle Objekte, die mehrfach instanziiert werden und über das Netzwerk identifiziert werden sollen, erhielten eine sogenannte PhotonView-Komponente. Die Skripte, die für die Bewegungen des Avatars und der Kamera zuständig sind, beziehen sich bei einer Mehrspieler-Anwendung auf die lokale PhotonView-Komponente um zu verhindern dass sich alle Instanzen bewegen. Ohne diese Vorkehrung könnte ein Benutzer alle Avatare in der Anwendung steuern. \\
@@ -40,7 +40,7 @@ Um die bereits existierenden Funktionen der Rakete und Aufzüge über das Netzwe
 \caption{Einer der Aufzüge mit dem zugehörigen Steuerpult}
 \end{figure}
 
-Um die Kollision von Interaktionen mehrerer Benutzer zu verhindern, wurde eine Stoppuhr in das Skript der zentralen Raketensteuerung implementiert. Diese Stoppuhr beginnt zu zählen (laufen?), sobald ein Knopf in der Szene betätigt wird. Das zentrale Kontrollskript blockiert nun die Annahme von sämtlichen Signalen von Knöpfen für eine Sekunde. Dies verhindert, dass ein Knopf aus Versehen zu lange gedrückt wird, was von dem Programm als erneutes Drücken interpretiert werden kann. Außerdem wird so das Problem der Kollision von Interaktionen gelöst. Falls zwei Benutzer denselben Knopf zur gleichen Zeit drücken wollen wird nur die erste Aktivierung angenommen, da der Knopf anschließend für eine Sekunde gesperrt ist.
+Um die Kollision von Interaktionen mehrerer Benutzer zu verhindern, wurde eine Stoppuhr in das Skript der zentralen Raketensteuerung implementiert. Diese Stoppuhr beginnt zu laufen, sobald ein Knopf in der Szene betätigt wird. Das zentrale Kontrollskript blockiert nun die Annahme von sämtlichen Signalen von Knöpfen für eine Sekunde. Dies verhindert, dass ein Knopf aus Versehen zu lange gedrückt wird, was von dem Programm als erneutes Drücken interpretiert werden kann. Außerdem wird so das Problem der Kollision von Interaktionen gelöst. Falls zwei Benutzer denselben Knopf zur gleichen Zeit drücken wollen wird nur die erste Aktivierung angenommen, da der Knopf anschließend für eine Sekunde gesperrt ist.
 
 \begin{figure}[H]
 \centering
