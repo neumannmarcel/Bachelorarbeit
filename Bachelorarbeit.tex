@@ -1,4 +1,4 @@
-﻿\documentclass[12pt,oneside,a4paper]{article}
+\documentclass[12pt,oneside,a4paper]{article}
 \usepackage[utf8]{inputenc}
 \renewcommand{\familydefault}{\sfdefault}
 \usepackage[a4paper,left=3cm,right=3cm,top=3cm,bottom=3cm]{geometry}
@@ -21,7 +21,7 @@
 \usepackage[style=apa,
 backend=biber,
 maxbibnames=99,
-sorting=none]{biblatex} 
+sorting=nty]{biblatex} 
 \usepackage{hyperref}
 \hypersetup{
     colorlinks,
@@ -39,27 +39,23 @@ sorting=none]{biblatex}
 \usepackage{fancyhdr}
 \fancyhf{}
 \renewcommand{\headrulewidth}{0pt}
-\rfoot{\thepage}
-\lfoot{Kooperation in VR auf Basis von ViRGOS}
+\cfoot{\thepage}
 
 \addbibresource{references.bib} 
 \DeclareFieldFormat[article,inbook,InProceedings]{title}{#1} 
 
 \pagestyle{fancy}
 \begin{document}
+\pagenumbering{gobble}
 \large
 \include{Deckblatt}
 
 \section*{\centering{Zusammenfassung}}
-ViRGOS ist eine bestehende Virtual Reality Anwendung der Hochschule Reutlingen. Diese Arbeit beschäftigt sich mit der Erweiterung dieser Anwendung, mit dem Ziel mehreren Spielern die Möglichkeit der asymmetrischen Kooperation zu bieten. In dieser Anwendung nehmen Benutzer zwei unterschiedliche Rollen ein. Ein Benutzer löst eine Aufgabe, während er von einem anderen angeleitet wird, wodurch es zu einer Asymmetrie in der K­ooperation kommt. Es werden Anforderungen an die Erweiterung definiert und Funktionen und Werkzeuge konzeptioniert um diese Kooperation zu ermöglichen. Der größte Teil der Konzeption kann umgesetzt werden, sodass die asymmetrische Kooperation in der Anwendung möglich ist. Um die qualitative Umsetzung zu testen, wird eine kleine Expertenbefragung durchgeführt und in dieser Arbeit ausgewertet.\\ \todo{Eventuell Umfrage Ergebnisse rein?}
-
-Im Anhang befindet sich ein einfacher Fragebogen der für eine größere Probandenbefragung konzipiert wurde, die aufgrund der Covid-19-Pandemie leider nicht durchgeführt werden kann.
+ViRGOS ist eine bestehende Virtual Reality Anwendung der Hochschule Reutlingen. Diese Arbeit beschäftigt sich mit der Erweiterung dieser Anwendung, mit dem Ziel mehreren Spielern die Möglichkeit der asymmetrischen Kooperation zu bieten. In dieser Anwendung nehmen Benutzer zwei unterschiedliche Rollen ein. Ein Benutzer löst eine Aufgabe, während er von einem anderen angeleitet wird, wodurch es zu einer Asymmetrie in der K­ooperation kommt. Es werden Anforderungen an die Erweiterung definiert und Funktionen und Werkzeuge konzeptioniert um diese Kooperation zu ermöglichen. Der größte Teil der Konzeption kann umgesetzt werden, sodass die asymmetrische Kooperation in der Anwendung möglich ist. Um die qualitative Umsetzung zu testen, wird eine kleine Expertenbefragung durchgeführt und in dieser Arbeit ausgewertet.\\
 
 \begin{otherlanguage}{english}
 \section*{\centering{Abstract}}
 ViRGOS is an existing virtual reality application from Reutlingen University. This work deals with the extension of this application, with the goal of offering several players the possibility of asymmetrical cooperation. In this application, users take on two different roles. One user solves a task while being guided by another, which leads to an asymmetry in the cooperation. The requirements for this extension are defined and functions and tools are designed to enable this cooperation. Most of the conception can be implemented so that asymmetric cooperation in the application is possible. In order to test the qualitative implementation, a small expert survey is conducted and evaluated in this thesis.\\
-
-The appendix includes a simple questionnaire which was designed for a larger survey, which unfortunately cannot be carried out due to the Covid-19 pandemic.
 \end{otherlanguage}
 
 \newpage
