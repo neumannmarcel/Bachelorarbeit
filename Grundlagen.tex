@@ -7,11 +7,12 @@ In dieser Arbeit kommen hauptsächlich zwei Technologien zum Einsatz. Einerseits
 
 \subsubsection*{Unity}
 Unity ist eine Laufzeit- und Entwicklungsumgebung für die Entwicklung von 3D-Grafik-Anwendungen. Unity erlaubt das Entwerfen von 3D-Szenen. Es können Objekte in der Szene platziert, skaliert, verschoben, gedreht oder manipuliert werden. Eine Szene setzt sich aus GameObjects zusammen, die jeweils mit Komponenten versehen werden können. Somit kann beispielsweise ein würfelförmiges Gameobject erzeugt werden, welchem eine Texturkomponente zugewiesen wird. Diese Komponente bestimmt dann das Aussehen der Oberfläche des Würfels. Somit kann der Eindruck erweckt werden, dass der Würfel aus Holz, Metall oder einem anderen beliebigen Material besteht. Um GameObjects zusätzliches Verhalten zu verleihen das die eingebauten Mechanismen von Unity übersteigt, ist es möglich diese um sogenannte Skripte zu erweitern. Diese sind im Falle von Unity in C\# geschrieben.
+\newpage
 
 \subsubsection*{Photon}
 Photon ist eine Sammlung von Unity-Paketen, die die Erstellung von Mehrspieler-Anwendungen erleichtern sollen. Das Paket, das in dieser Arbeit angewandt wird, ist \glqq Photon Unity Networking 2\grqq{} (PUN2). Dieses Paket bietet Werkzeuge, die die Erstellung von Räumen ermöglicht. Spieler, die sich in dem selben Raum befinden, sind über den Cloud-Service von Photon verbunden. Dies ermöglicht das Synchronisieren von Objekten über das Netzwerk. Der Datenaustausch zwischen Benutzern ist hierbei stark konfigurierbar. Abhängig von dem Zweck der Übertragung kann Geschwindigkeit oder Verlässlichkeit priorisiert werden.
 
-\subsection{ViRGOS als Basis}
+\subsection{ViRGOS als Basis} \label{Basis}
 Als Grundlage für diese Arbeit wird eine bestehende Anwendung namens ViRGOS verwendet, die bereits eine virtuelle Umgebung zur Verfügung stellt. Die ViRGOS-Anwendung ist zu Beginn bereits funktionsfähig. Zentrum der Anwendung ist das Modell einer Rakete, die sich auf der Mondoberfläche befindet. \newline
 
 \begin{figure}[H]

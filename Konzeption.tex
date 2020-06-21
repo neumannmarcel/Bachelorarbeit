@@ -17,6 +17,7 @@ Das System soll:
 \item Dynamisch auf zusätzliche Benutzer reagieren
 \end{itemize}
 
+\newpage
 	
 \subsubsection*{A2 \label{A2} Keine technische Abhängigkeit von einem VR-Headset}
 Das System soll nicht exklusiv über ein Virtual Reality Headset verwendbar sein.\\
@@ -75,6 +76,8 @@ Da die Anwendung primär von Experten der Materie benutzt wird, und alle Laien v
 \subsubsection*{Sicherheit}
 Sicherheit ist bei diesem Projekt keine große Priorität, da die Anwendung exklusiv von Mitgliedern des Virtual Reality Labors benutzt wird. Somit haben Außenstehende keinen Zugriff auf die Soft- oder Hardware, weshalb zusätzliche Maßnahmen zur Stärkung der Sicherheit nicht notwendig sind.
 
+\newpage
+
 \subsubsection*{Effizienz}
 Die Anwendung muss Änderungen sehr schnell über alle Instanzen synchronisieren um eine Immersion der Benutzer zu gewährleisten. Durch zu große zeitliche Abweichungen in der Datenübertragung kann es zu Asymmetrien in den Instanzen kommen, was die Zusammenarbeit erschweren kann. Des Weiteren muss die Anwendung genügend Kapazitäten für die Benutzer anbieten. Da das Ziel dieser Arbeit nur zwei Benutzer gleichzeitig vorsieht, halten sich die notwendigen Kapazitäten relativ niedrig. 
 
@@ -87,6 +90,7 @@ Da die Anwendung von spezieller Hardware, namentlich einem Virtual Reality Heads
 \subsubsection*{Kompatibilität}
 ViRGOS interagiert ausschließlich mit anderen Instanzen von sich selbst. Somit muss die Anwendung mit keinem anderen Programm kompatibel sein. Es muss allerdings eine Koexistenz mit der Treibersoftware, die die notwendige Hardware kontrolliert, möglich sein. 
 
+\newpage
 
 \subsection{Auswahl der Technologien}
 Aufgrund der Tatsache dass ViRGOS in Unity entwickelt wurde und als Basis für diese Arbeit dient, wird Unity auch hier als Entwicklungsumgebung verwendet. Um die Mehrspieler-Funktionalitäten umzusetzen, wurden die Möglichkeiten von UNet, Unitys eigener Mehrspieler-Lösung, geprüft. Unglücklicherweise ist UNet überholt und soll in naher Zukunft entfernt werden. Somit musste sich für eine Framework-Alternative entschieden werden.
@@ -96,6 +100,8 @@ Eine mögliche Lösung stellte Mirror dar. Dieses Framework ist für große Spie
 
 \subsubsection{Photon}
 Eine weitere Option ist Photon. In diesem Framework wird die Anwendung auf einem Cloud-Server gehostet, was den Zugriff von überall ermöglicht und die Verbindung zwischen Clients vereinfacht. Zudem ist das Framework weit verbreitet was eine große Wissensgrundlage und Hilfestellungen bietet. Des Weiteren bietet Photon eine kostenlose Version, die nur in der Größe der Cloud Server eingeschränkt ist, aber sonst alles bietet was für die Umsetzung dieses Projektes gebraucht wird. Somit wurde Photon für die Umsetzung gewählt. 
+
+\newpage
 
 \subsection{Entwurf}
 Das Kapitel des Entwurfs beschreibt die Entwicklung der Konzepte von sowohl eines Prototypen als auch der eigentlichen Funktionalitäten in ViRGOS. Die Entwürfe bezüglich ViRGOS sind in die Mehrspielerfähigkeit der Anwendung im Allgemeinen und die Werkzeuge für die Kooperation gegliedert. Abschließend wird ein Entwurf für Tests der Anwendung und eine Befragung von Probanden im Rahmen einer Studie vorgestellt.

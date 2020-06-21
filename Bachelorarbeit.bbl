@@ -660,6 +660,38 @@
       \range{pages}{24}
       \keyw{Virtuelle Realit{ä}t / Psychologie}
     \endentry
+    \entry{steffens}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ce4248e4fa3c5522e8b408911351f6c0}{%
+           family={Steffens},
+           familyi={S\bibinitperiod},
+           given={M.C},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ce4248e4fa3c5522e8b408911351f6c0}
+      \strng{fullhash}{ce4248e4fa3c5522e8b408911351f6c0}
+      \strng{bibnamehash}{ce4248e4fa3c5522e8b408911351f6c0}
+      \strng{authorbibnamehash}{ce4248e4fa3c5522e8b408911351f6c0}
+      \strng{authornamehash}{ce4248e4fa3c5522e8b408911351f6c0}
+      \strng{authorfullhash}{ce4248e4fa3c5522e8b408911351f6c0}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychonomic Bulletin \& Review}
+      \field{title}{Memory for goal-directed sequences of actions: Is doing better than seeing?}
+      \field{volume}{14}
+      \field{year}{2007}
+      \field{pages}{1194\bibrangedash 1198}
+      \range{pages}{5}
+      \verb{doi}
+      \verb https://doi.org/10.3758/BF03193112
+      \endverb
+    \endentry
     \entry{8943686}{inproceedings}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=ddcceda2c2c92c81fddcea7b7fdf5592}{%

@@ -48,7 +48,7 @@ Um die Kollision von Interaktionen mehrerer Benutzer zu verhindern, wurde eine S
 \caption{Sequenzdiagramm der RPCs}
 \end{figure}
 
-\subsubsection{Versuchsaufbau für Interaktionen}
+\subsubsection{Versuchsaufbau für Interaktionen} \label{Versuchsaufbau}
 Um die Interaktionen zwischen mehreren Benutzern testen zu können, musste zuerst eine Aufgabe entwickelt werden die die Benutzer lösen können. Da der Kommandant, wie im Kapitel \ref{Problemstellung} erklärt, den Astronauten anleiten soll, wurde sich für eine Problemstellung außerhalb der Rakete entschieden. Somit kann der Kommandant in dem Kontrollraum bleiben und den Astronauten unterstützen, während dieser einer Aufgabe nachgeht.
 
 \begin{figure}[H]
@@ -115,6 +115,8 @@ Damit der Kommandant den Astronauten anleiten kann muss dieser wissen, woran der
 \caption{Einer der Avatare, während seine Sicht auf dem Bildschirm dargestellt wird}
 \end{figure}
 
+\newpage
+
 Eine Erweiterung der Funktion ist das Wechseln der primären Kamera auf die sekundäre Kamera des jeweiligen Benutzers. Dies ermöglicht es dem Kommandanten durch die Augen des Astronauten zu sehen und so genauere Anweisungen zu geben oder mögliche Probleme zu identifizieren die nicht über den Voice-Chat kommuniziert werden können. Durch einen Druck auf den zweiten Knopf kann die lokale primäre Kamera mit der sekundären Kamera getauscht werden, die aktuell auf dem Bildschirm angezeigt wird. Dies geschieht indem die primäre Kamera und gleichzeitig die Render-Textur der sekundären Kamera des jeweiligen Avatars deaktiviert werden. Somit wird das Bild der sekundären Kamera nicht mehr auf dem Bildschirm in der Anwendung angezeigt, sondern auf dem echten Bildschirm des Benutzers. 
 
 \begin{figure}[H]
@@ -123,6 +125,6 @@ Eine Erweiterung der Funktion ist das Wechseln der primären Kamera auf die seku
 \caption{Die Sicht des Avatars, während sie den kompletten Bildschirm ausfüllt}
 \end{figure}
 
-\subsection{Einschränkungen durch Covid-19}
+\subsection{Einschränkungen durch Covid-19} \label{Covid}
 Aufgrund der Covid-19-Pandemie und den daraus resultierenden Kontaktverboten und Schließungen von öffentlichen Einrichtungen, wirkte sich dies auch auf die Entwicklung dieses Projektes aus. Da sich das einzige verfügbare Virtual Reality Headset im Labor der Hochschule Reutlingen befand, erschwerte dies das Testen der Anwendung. Viele Funktionen konnten ohne Headset an einem Computer getestet werden, für Andere war das Testen mit einem Headset aber unumgänglich. Hierfür wurde mit einem Kommilitonen der Hochschule zusammengearbeitet, der privat über ein Headset verfügt. Dieser war freundlicherweise bereit die Anwendung in Virtual Reality zu testen und Besonderheiten oder Fehler über einen Voice-Chat zu schildern. Somit konnte zumindest regelmäßig auf Fehler reagiert, und diese behoben werden. \newline
-Auch die Probandenbefragung war in der geplanten Form nicht durchführbar, da diese Aufgrund der benötigten Hardware nur in der Hochschule umsetzbar gewesen wäre. 
+Auch die Probandenbefragung war in der geplanten Form nicht durchführbar, da zum Zeitpunkt der Pandemie keine Vorlesungen in den Gebäuden der Hochschule gehalten wurden. Somit musste mit einer extrem verringerten Anzahl an Teilnehmern gearbeitet werden.
