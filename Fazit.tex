@@ -1,12 +1,23 @@
 \section{Fazit}
-In diesem Kapitel wird im Rahmen der Diskussion zuerst auf die Anforderungen eingegangen. Hierbei wird beschrieben ob die Anforderung komplett, nur teilweise oder gar nicht umgesetzt werden konnte. Zum Abschluss werden im Unterkapitel Ausblick mögliche Erweiterungen und aktuelle Fehler in der Anwendung genannt die in Zukunft implementiert und verbessert werden könnten.
+In diesem Kapitel wird im Rahmen der Diskussion zuerst auf die Anforderungen und die Testergebnisse eingegangen. Zum Abschluss werden im Unterkapitel Ausblick mögliche Erweiterungen und aktuelle Fehler in der Anwendung genannt, die in Zukunft implementiert und verbessert werden könnten.
 
 \subsection{Diskussion} \label{Diskussion}
+In dieser Diskussion werden zuerst die Anforderungen an die Arbeit aufgegriffen. Hierbei wird beschrieben ob die Anforderungen komplett, nur teilweise oder gar nicht umgesetzt werden konnten. Anschließend werden die Testergebnisse aus Kapitel \ref{Evaluation} zusammengefasst.
 
+\subsubsection{Anforderungen}
 Die meisten Anforderungen die in der Anforderungsanalyse definiert wurden konnten umgesetzt werden. Die Anforderung A1 \glqq Mehrere Benutzer gleichzeitig in der Anwendung\grqq{} wurde komplett umgesetzt. Die Anwendung kann von einem bis zehn Spielern gleichzeitig verwendet werden. Die Anwendung reagiert dynamisch auf das Beitreten und das Verlassen von Benutzern, ohne dass etwas angepasst oder neu gestartet werden muss.\\
 Anforderung A2 \glqq Keine technische Abhängigkeit von einem VR-Headset\grqq{} wurde ebenfalls erfolgreich umgesetzt. Die Anwendung kann mit einem VR-Headset und dem Virtualizer oder über Maus und Tastatur benutzt werden. Welcher Spieler welche Technologie benutzt ist hierbei auch frei kombinierbar.\\
 Die Rollen die in A3 \glqq Astronaut und Kommandant als Rollen für die Benutzer\grqq{} definiert wurden, wurden auch umgesetzt. Den Spielern werden keine festen Rollen zugewiesen, sondern von den Spielern dynamisch selbst gewählt. Dies geschieht durch die Positionierung in der Anwendung und die Benutzung der Werkzeuge, die für den Kommandanten gedacht sind.\\
-A4 \glqq Informationsübertragung zwischen den Benutzern\grqq{} hingegen nicht komplett umgesetzt werden. Die sprachliche Kommunikation wurde bereits von der Basisanwendung angeboten. Die Position von anderen Spielern kann über den Bildschirm im Kontrollraum ermittelt werden. Mit der Funktion, die die Übernahme der Sicht eines anderen Spielers ermöglicht, können viele visuelle Informationen an den Kommandanten übermittelt werden. Die Funktionen für den Verweis auf Punkte im Raum und das Anbringen von Notizen konnten jedoch nicht umgesetzt werden. Abgesehen von dem Voicechat findet die Kommunikation aktuell folglich nur in eine Richtung von dem Astronauten zu dem Kommandanten statt.\todo{Forschungs- frage beantwortet? Erkenntnisse Umfrage?}
+
+A4 \glqq Informationsübertragung zwischen den Benutzern\grqq{} hingegen nicht komplett umgesetzt werden. Die sprachliche Kommunikation wurde bereits von der Basisanwendung angeboten. Die Position von anderen Spielern kann über den Bildschirm im Kontrollraum ermittelt werden. Mit der Funktion, die die Übernahme der Sicht eines anderen Spielers ermöglicht, können viele visuelle Informationen an den Kommandanten übermittelt werden. Die Funktionen für den Verweis auf Punkte im Raum und das Anbringen von Notizen konnten jedoch nicht umgesetzt werden. Abgesehen von dem Voicechat findet die Kommunikation aktuell folglich nur in eine Richtung von dem Astronauten zu dem Kommandanten statt.\\
+
+\subsubsection{Testergebnisse}
+
+Die Ergebnisse der Probandenbefragung die in Kapitel \ref{Evaluation} beschrieben wird, lassen aufgrund der geringen Anzahl der Probanden leider kaum Rückschlüsse zu. Hinzu kommen die zu simple Aufgabe an den Astronauten und die Funktionalitäten die zwar entworfen, aber nicht umgesetzt werden konnten. Somit lässt sich die gestellte Forschungsfrage FF1 aus Kapitel\ref{FF1} leider nur sehr eingeschränkt beantworten.\\
+
+Die Antworten aus der Befragung legen nahe, dass ViRGOS inklusive seiner Erweiterungen eine solide Basis darstellt. Es bedarf aber scheinbar Verbesserungen in den Bereichen der Immersion und der Benutzbarkeit der Anwendung. Dies bezieht sich sowohl auf die Software, als auch die Hardware.\\
+
+Bezüglich der Kooperation lässt sich sagen, dass beide Teilnehmer permanent visuelle Informationen über die Umwelt und die Aufgabe benötigen. Dies lässt sich daraus schließen, dass beide Kommandanten sofort die Kamera des Astronauten übernommen haben, sobald dieser den virtuellen Raum verließ und kein direkter Blickkontakt mehr möglich war. Eine Kooperation rein auf Basis von auditiver Kommunikation kann den Ablauf somit erschweren, da sich der Kommandant die virtuelle Umgebung des Astronauten vorstellen muss. Für eine möglich korrekte Vorstellung ist somit extrem viel auditive Kommunikation notwendig. Um die Forschungsfrage dieser Arbeit genauer beantworten zu können, ist ein weiterer Test mit mehr Probanden und einer überarbeiteten Version der Anwendung notwendig.
 
 \subsection{Ausblick} \label{Ausblick}
 
